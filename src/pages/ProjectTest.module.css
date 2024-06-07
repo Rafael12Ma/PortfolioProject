@@ -1,0 +1,88 @@
+.hookah {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("hookah.png");
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+}
+
+.hookah {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("hookah.png");
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+}
+
+.BlackJack {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("blackJack.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.Drums {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("drums.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.Tracks {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("Tracks.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.default {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-image: url("logo512.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.header {
+  margin-top: 50px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  color: aliceblue;
+  font-weight: 300;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.images {
+  display: flex;
+  flex-direction: row;
+  width: 15rem;
+  margin: auto;
+  justify-content: center;
+}
+
+.an {
+  color: rgb(92, 152, 255);
+  font-size: 30px;
+  font-weight: 600;
+}
